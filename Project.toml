@@ -1,0 +1,11 @@
+name = "BrainhackWarsaw2023"
+uuid = "b419d8fa-c38f-4744-9a38-3b3bc42b05cf"
+authors = ["yaaun <6322902+yaaun@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+Anomaly = "a40cd781-f393-47f2-8775-4fd2cd5a603c"
+EEGIO = "0b63a203-985a-4b95-9578-b702c99cc299"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+Telepathy = "0d7f22b2-4679-4055-8421-94b93cbff039"
